@@ -24,3 +24,6 @@ n4d-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# Runtime config
+/config/runtime.exs
